@@ -22,7 +22,10 @@ public class GeneralMethods {
 
     @Before
     public static void ejecutaChrome() {
+        //En caso de linux
         System.setProperty("webdriver.chrome.driver", "src/test/resources/driver/chromedriver");
+        //En caso de Windows
+        //System.setProperty("webdriver.chrome.driver", "src/test/resources/driver/chromedriver");
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.get(GeneralMethods.props.url());
