@@ -1,0 +1,9 @@
+pageMethods/CommonsMethods.class
+RunCucumberTest.class
+stepsDefinitions/PostPetDefintions.class
+stepsDefinitions/PutPetDefinitions.class
+pageMethods/GetMethods.class
+configuration/Iproperties.class
+stepsDefinitions/GetPetDefinitions.class
+pageMethods/PutMethods.class
+pageMethods/PostMethods.class

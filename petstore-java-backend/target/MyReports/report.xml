@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="6.386">
+    <testcase classname="Leads" name="Agregar una mascota en PetStore" time="5.885">
+        <system-out><![CDATA[Given Se realiza un POST a PetStore.........................................passed
+When Obtiene la respuesta esperada del POST.................................passed
+Then El status code del POST se muestra correctamente.......................passed
+]]></system-out>
+    </testcase>
+</testsuite>

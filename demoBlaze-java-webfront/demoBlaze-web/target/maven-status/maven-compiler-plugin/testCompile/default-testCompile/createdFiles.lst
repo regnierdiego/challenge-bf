@@ -1,0 +1,8 @@
+RunCucumberTest.class
+pageObjects/DemoBlazePage.class
+pageMethods/GeneralMethods.class
+pageMethods/DemoBlazeMethods.class
+stepsDefinitions/GeneralDefinitions.class
+configuration/Iproperties.class
+stepsDefinitions/DemoBlazeDefinitions.class
+pageObjects/GeneralPage.class

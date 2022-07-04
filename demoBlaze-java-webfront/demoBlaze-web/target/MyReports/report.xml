@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="21.759">
+    <testcase classname="DEMOBLAZE SCENARIOS" name="User register and login" time="13.011">
+        <system-out><![CDATA[Given Open Form.............................................................passed
+When Register and Login with user created...................................passed
+Then Logout and check.......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="DEMOBLAZE SCENARIOS" name="User add to cart and check" time="8.265">
+        <system-out><![CDATA[Given User select a product.................................................passed
+When Add to cart............................................................passed
+Then Check added to cart....................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
